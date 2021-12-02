@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @stefa-n
+- 👀 I’m interested in game & web development.
+- 🌱 I’m currently learning C#, and know a lil' bit of JS
+- 💞️ I’m looking to collaborate on whatever
+- 📫 How to reach me: you don't
